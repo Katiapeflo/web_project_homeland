@@ -5,6 +5,7 @@ flex-direction: column;
 max-width: 984px;
 height: auto;
 margin-top: 92px;
+margin: 0 auto;
 font-family:  "inter", Arial, Helvetica, sans-serif;
 }
 
@@ -47,6 +48,7 @@ font-size: 16px;
 margin-top: 90px;
 margin-left: 24px;
 margin-right: 24px;
+margin: 0;
   }
 
   .intro__title{
